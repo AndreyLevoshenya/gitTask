@@ -3,6 +3,8 @@ secline1
 secline2
 secline3 changed in git_1
 secline4 changed in git_1
+secline3 changed
+secline4 changed
 secline5
 secline6
 secline7
