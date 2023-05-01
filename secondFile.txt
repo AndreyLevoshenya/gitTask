@@ -1,8 +1,8 @@
 secline0
 secline1
 secline2
-secline3
-secline4
+secline3 changed in git_1
+secline4 changed in git_1
 secline5
 secline6
 secline7
